@@ -1,0 +1,56 @@
+@import "null.css";
+
+
+.wrapper{
+    min-height: 100%;
+    overflow: hidden;
+	background-color: darkmagenta;
+}
+.block-1{
+	padding: 30px;
+	margin: 50px;
+	font-size: 20px;
+	text-align: center;
+	background-color: aquamarine;
+	border-radius: 30px;
+
+}
+.block-2{
+	padding: 30px;
+	text-decoration: underline;
+}
+.list{
+	font-size: 20px;
+	text-decoration: underline cornflowerblue;
+	text-align: right;
+}
+.span{
+	margin: 30px;
+	text-align:center;
+	
+}
+.block-4{
+	padding: 100px;
+	background-color: chartreuse ;
+	border-radius:    30px ;
+	text-align: right;
+	margin-left: 800px;
+	font-size: 20px;
+}
+.before{
+
+	box-sizing: border-box;
+	background-color: cornflowerblue;
+
+}
+.konech{
+	text-align: right;
+	background-color:grey;
+	padding: 150PX;
+}
+.li_1{
+	text-align: center;
+}
+.li_2{
+	text-align: left;
+}
